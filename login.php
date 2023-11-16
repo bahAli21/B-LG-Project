@@ -80,8 +80,8 @@
             <div class="content">
                 <h3>New here ?</h3>
                 <p>
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Debitis,
-                    ex ratione. Aliquid!
+                    Join us now! Experience a world of connections, shared interests, and more.
+                    Sign up and become a part of our vibrant community today
                 </p>
                 <button class="btn transparent" id="sign-up-btn">
                     Sign up
@@ -93,8 +93,8 @@
             <div class="content">
                 <h3>One of us ?</h3>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-                    laboriosam ad deleniti.
+                    Share your moments, connect with friends, and join the conversation.
+                    Sign in to your account and be a part of our social network
                 </p>
                 <button class="btn transparent" id="sign-in-btn">
                     Sign in
@@ -105,6 +105,6 @@
     </div>
 </div>
 
-<script src="app.js"></script>
+<script src="script.js"></script>
 </body>
 </html>
